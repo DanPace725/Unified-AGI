@@ -1,3 +1,7 @@
+---
+link: https://pace725.notion.site/General-Overview-7418027b42d24db8a0782bffb33fca20
+notionID: 7418027b-42d2-4db8-a078-2bffb33fca20
+---
 # A Unified Theory for Cultivating AI through Developmental Embodiment 
 
 ## Goal: Achieve artificial general intelligence through an embodied developmental approach leading to emergent cognition 

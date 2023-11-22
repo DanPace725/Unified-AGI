@@ -1,3 +1,7 @@
+---
+link: https://pace725.notion.site/Introduction-afb509969fa04e408badbef5571bfc85
+notionID: afb50996-9fa0-4e40-8bad-bef5571bfc85
+---
 ### Addressing the Limitations of Current AI Paradigms
 
 In recent years, Artificial Intelligence (AI) has made remarkable strides, transforming industries and opening up new frontiers of technological advancement. However, despite these achievements, current AI systems face significant limitations that hinder their progression towards true Artificial General Intelligence (AGI). These limitations underscore the need for a novel, interdisciplinary framework, as proposed in our project.
