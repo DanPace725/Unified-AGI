@@ -25,3 +25,6 @@ To address these limitations, our project proposes "A Unified Theory for Cultiva
 - **Biological Inspirations**: Mimicking natural processes such as [[organismic growth trajectories]], [[morphological computation]], and neural plasticity.
 
 By synthesizing these diverse perspectives, the framework aims to transcend the current limitations of AI, fostering systems that are adaptable, context-aware, and capable of continuous learning and evolution. This approach aspires to bring us closer to realizing AGI, capable of generalizing intelligence in a manner akin to human cognition.
+
+
+https://pace725.notion.site/d00a15ea53f84cc1b8c55f1546bbc710?v=83401c14f60f4a2d9e6c753222b3f310&pvs=4
