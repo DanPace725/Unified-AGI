@@ -1,3 +1,7 @@
+---
+link: https://pace725.notion.site/Complexity-Science-e8c43f92639b4ff4bcc3efd78d0a4ee1
+notionID: e8c43f92-639b-4ff4-bcc3-efd78d0a4ee1
+---
 #philosophical_foundations 
 This is a field of study that examines complex systems, which are systems with many interacting components that often exhibit unexpected or emergent behavior. Complexity science explores how relationships, behaviors, and the structure of systems evolve over time. It is applied across various disciplines, including biology, sociology, and economics, to understand complex phenomena.
 
