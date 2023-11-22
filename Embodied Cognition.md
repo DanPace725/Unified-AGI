@@ -1,0 +1,3 @@
+#philosophical_foundations #embodied_dynamism
+- **Concept**: This theory posits that cognitive processes are deeply intertwined with the body's interactions with the physical world. It challenges the traditional view of the mind as separate from the body.
+- **Application**: Embodied Cognition suggests that thinking and reasoning are influenced and shaped by the body's interactions, movements, and perceptions. It implies that our physical form and sensory experiences play a central role in how we understand and interact with the world.

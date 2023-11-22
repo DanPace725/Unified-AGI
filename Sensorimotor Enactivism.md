@@ -1,0 +1,3 @@
+#philosophical_foundations #cognition
+- **Concept**: This approach emphasizes the importance of sensorimotor interactions between an organism and its environment. It proposes that perception and action are fundamentally intertwined.
+- **Application to Cognition**: According to this theory, cognitive processes arise from recurrent sensorimotor patterns that guide action and perception. Understanding and knowledge are seen as rooted in the organism’s capability to act and perceive through its bodily interactions with the world.

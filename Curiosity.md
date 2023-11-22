@@ -1,0 +1,2 @@
+* Curiosity bridges the gap between the known and unknow, simple and complex, save and unsafe. Curiosity is a natural response to an unknown state that offers some potential reward and is not immediately overwhelming or threatening. 
+* An advanced AI would need to be able to experience curiosity on some level to drive it towards different environments and discoveries. 

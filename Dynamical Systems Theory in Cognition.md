@@ -1,0 +1,3 @@
+#philosophical_foundations #embodied_dynamism
+- **Concept**: This theory views cognitive processes as emergent properties of dynamic, nonlinear systems. It focuses on how cognitive phenomena can be understood in terms of patterns of change over time within these systems.
+- **Application**: In cognition, Dynamical Systems Theory is applied to explain how mental states and processes can emerge from the interaction of neural networks and the body with the environment. It offers a way to model cognitive processes as evolving patterns of activity

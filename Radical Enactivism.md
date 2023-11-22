@@ -1,0 +1,3 @@
+#philosophical_foundations #cognition
+- **Concept**: Radical Enactivism extends the basic ideas of enactivism by arguing that cognition involves more than just brain processes; it encompasses the entire organism and its interactions with the environment.
+- **Application to Cognition**: This theory challenges the traditional view of cognition as computation or representation within the brain. Instead, it posits that cognition emerges from the dynamic interactions between the organism and its environment, without relying on internal representations.

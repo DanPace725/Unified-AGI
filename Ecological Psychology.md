@@ -1,0 +1,3 @@
+#philosophical_foundations #embodied_dynamism
+- **Concept**: Developed by James J. Gibson, this approach centers on direct perception and how organisms perceive and interact with their environment. It rejects the notion of the brain processing representations of the world.
+- **Application**: Ecological Psychology proposes that perception is about directly picking up information from the environment (affordances) that is relevant for action. It emphasizes that cognition is about interacting with the environment in an active, direct manner, and is inherently contextual.

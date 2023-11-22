@@ -1,0 +1,3 @@
+#philosophical_foundations #cybernetics
+- **Concept**: This theory extends classical cybernetics by including the observer in the system. It recognizes that systems (and their study) cannot be separated from the individuals who design, observe, and interact with them.
+- **Application**: Second-order Cybernetics has implications in AI for designing systems that are aware of their own processes and possibly of the intentions of their designers and users. It's influential in fields that involve human-computer interaction and adaptive learning systems.

@@ -1,0 +1,3 @@
+#philosophical_foundations #cybernetics
+- **Concept**: This field is focused on understanding control and communication processes in biological organisms and how these can be applied to artificial systems.
+- **Application**: Biological Cybernetics is directly relevant to bio-inspired AI and robotics. It helps in designing AI systems that mimic biological processes, such as neural networks for information processing or homeostatic algorithms for maintaining system balance.

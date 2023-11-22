@@ -1,0 +1,3 @@
+#philosophical_foundations #cybernetics
+- **Concept**: Social Cybernetics applies the principles of cybernetics to social systems and interactions. It explores how societies and social structures can be understood as self-regulating systems.
+- **Application**: In the context of AI, Social Cybernetics can guide the development of systems that understand and adapt to social dynamics. It’s particularly relevant for AI applications in social network analysis, crowd behavior simulation, and interactive robots or virtual agents.

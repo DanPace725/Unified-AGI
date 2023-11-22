@@ -1,0 +1,3 @@
+#philosophical_foundations #embodied_dynamism
+- **Concept**: Situated Cognition emphasizes that cognition is deeply affected by the physical and social context in which it occurs. It argues that knowing is inseparable from doing and that all knowledge is situated in activity bound to social, cultural, and physical contexts.
+- **Application**: This approach suggests that cognitive processes are not just internal but are shaped by the environment and context in which an individual operates. It also highlights the role of tools and social interactions in the cognitive process.

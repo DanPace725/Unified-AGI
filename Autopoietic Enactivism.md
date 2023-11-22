@@ -1,0 +1,3 @@
+#philosophical_foundations #cognition
+- **Concept**: This theory centers on the idea of autopoiesis, meaning self-creation. It views living organisms as self-producing systems that maintain their own boundaries and internal states.
+- **Application to Cognition**: In this context, cognition is seen as an active process of maintaining the viability and autonomy of the organism in its environment. Cognitive processes are not just brain activities but involve the entire organism engaging with its surroundings.
