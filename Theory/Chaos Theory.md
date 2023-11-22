@@ -1,1 +1,3 @@
 #philosophical_foundations
+- **Concept**: Chaos Theory studies the behavior of dynamical systems that are highly sensitive to initial conditions, a phenomenon popularly referred to as the 'butterfly effect.'
+- **Application**: In AI, Chaos Theory can inform the design of systems that need to be sensitive to initial inputs or are operating in environments where small changes can lead to significant differences in outcomes.

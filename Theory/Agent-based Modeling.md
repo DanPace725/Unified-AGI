@@ -1,1 +1,3 @@
 #philosophical_foundations
+- **Concept**: Agent-based Modeling involves simulating the actions and interactions of autonomous agents (individual entities, such as cells, organisms, or vehicles) to assess their effects on the system as a whole.
+- **Application**: In AI, this approach can be used to simulate and analyze complex systems composed of multiple interacting agents, providing insights into emergent behaviors and system-level dynamics.
