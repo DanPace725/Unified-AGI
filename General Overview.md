@@ -4,7 +4,7 @@
 
 ### Philosophical Foundations 
 #philosophical_foundations
-- [[Enactive Theories of Cognition]]
+- ![[Enactive Theories of Cognition]]
 - [[Embodied Dynamism Theories]]
 - [[Cybernetic Systems Theories]]
 - [[Complexity Science]] 
