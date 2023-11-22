@@ -4,6 +4,7 @@
 
 This project aims to develop a novel approach to Artificial General Intelligence (AGI) through an embodied developmental process. It integrates insights from various disciplines, including enactive and [[embodied cognition]], [[cybernetic systems theories]], and [[complexity science]], grounded in biological inspirations like [[organismic growth trajectories]], [[morphological computation]], and [[neural plasticity processes]].
 
+The project is setup as an Obsidian Vault with a GitHub backup system to provide a back up system, make sharing more streamlined, and track changes over time consistently. 
 ## Objectives
 
 - To create a comprehensive theoretical framework for AGI.
