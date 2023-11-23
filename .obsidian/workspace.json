@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "85d3d61d9d7fd3ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "57a4e4b3b1099773",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5afdf8b106848b8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Theory/Cybernetic Systems Theories.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "022b8189757d7fd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "15a02b8f4c003de5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b699cd8380016e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "4f79e250b36b9f9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#philosophical_foundations",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "55758deea9aa8fbc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d4f124b920337f5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "21912237243adda2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21872999724eef5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git/Theory/Cybernetic Systems Theories.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "fde903dacd8737c1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git/Theory/Cybernetic Systems Theories.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "58672cf5b4e26ac5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9283526d3ee01a8c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git/Theory/Cybernetic Systems Theories.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "7b5a34cfba267d08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9f90a4695faa417",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 534.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "5afdf8b106848b8f",
+  "lastOpenFiles": [
+    "Git/Introduction.md",
+    "Git/General Overview.md",
+    "General Overview2.pdf",
+    "Git/Theory/Complexity Science.md",
+    "Introduction.pdf",
+    "General Overview.pdf",
+    "pandoc-3.1.9/pandoc.exe",
+    "pandoc-3.1.9/MANUAL.html",
+    "pandoc-3.1.9/COPYRIGHT.txt",
+    "pandoc-3.1.9/COPYING.rtf",
+    "pandoc-3.1.9",
+    "Git/Theory/Embodied Dynamism Theories.md",
+    "Git/Theory/Enactive Theories of Cognition.md",
+    "Git/README.md",
+    "Git/Theory/Morphological Computation.md",
+    "Git/Theory/Organismic Growth Trajectories.md",
+    "Git/Theory/Agent-based Modeling.md",
+    "Git/Theory/Adaptive Systems Theory.md",
+    "Git/Theory/Network Theory.md",
+    "Git/Theory/Chaos Theory.md",
+    "Git/Theory/Biological Cybernetics.md",
+    "Git/Theory/Social Cybernetics.md",
+    "Git/Theory/Second-order Cybernetics.md",
+    "Git/Theory/Classical Cybernetics.md",
+    "Git/Theory/Ecological Psychology.md",
+    "Git/Theory/Dynamical Systems Theory in Cognition.md",
+    "Git/Theory/Situated Cognition.md",
+    "Git/Theory/Embodied Cognition.md",
+    "Git/Theory/Interactive Enactivism.md",
+    "Git/Theory/Radical Enactivism.md",
+    "Git/Theory/Sensorimotor Enactivism.md",
+    "Git/Theory/Autopoietic Enactivism.md",
+    "Git/Theory/Material Considerations.md",
+    "Git/Theory",
+    "Git"
+  ]
+}
